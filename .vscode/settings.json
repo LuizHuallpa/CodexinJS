@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/94974f10-b07a-4d9e-bb0c-343648cd2aa2/AppServices/subscriptions/94974f10-b07a-4d9e-bb0c-343648cd2aa2/resourceGroups/ChatGPT/providers/Microsoft.Web/sites/LuizChatGPT",
+    "appService.deploySubpath": "."
+}
